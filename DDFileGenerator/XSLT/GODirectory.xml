@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <GuidanceOptionDirectory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<GuidanceOption>
-		<CouplerNumber>15</CouplerNumber>
+		<CouplerNumber>9999999999</CouplerNumber>
 		<GONumber>92</GONumber>
 		<GOGEN>6</GOGEN>
 		<DDFinding>None</DDFinding>
